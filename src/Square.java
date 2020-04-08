@@ -1,6 +1,7 @@
 
 public class Square extends Rectangle{
 
+	//メソッドメンバ
 	public Square(int x,int y, int width) {
 
 	}
