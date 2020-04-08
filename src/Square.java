@@ -1,8 +1,5 @@
 
 public class Square extends Rectangle{
-//	private int x;
-//	private int y;
-//	private int width;
 
 	public Square(int x,int y, int width) {
 
