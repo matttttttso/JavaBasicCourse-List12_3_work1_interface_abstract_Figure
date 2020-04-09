@@ -1,3 +1,4 @@
+//具象クラスPoint
 public class Point {
 	//フィールドメンバ
 	private int x;
