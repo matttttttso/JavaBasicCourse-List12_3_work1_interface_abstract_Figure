@@ -18,7 +18,7 @@ public class Point {
 		this.y = y;
 	}
 
-	//メソッドメンバ
+	//コンストラクタ
 	//引数なし
 	public Point() {
 		this.x = 0;
