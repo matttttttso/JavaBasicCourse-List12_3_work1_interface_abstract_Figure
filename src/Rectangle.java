@@ -1,4 +1,4 @@
-
+//具象クラス、親クラスRectangle
 public class Rectangle extends Polygon {
 	//フィールドメンバ
 	protected Point p;
