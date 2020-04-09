@@ -1,4 +1,4 @@
-
+//具象クラスTriangle
 public class Triangle extends Polygon {
 	//フィールドメンバ
 	private Point p1;
