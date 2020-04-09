@@ -1,4 +1,4 @@
-
+//抽象クラスPolygon
 public abstract class Polygon extends Shape {
 	//フィールドメンバ
 	protected int angel;
