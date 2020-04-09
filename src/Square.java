@@ -1,4 +1,4 @@
-//具象クラスSquare
+//具象クラス,子クラスSquare
 public class Square extends Rectangle {
 
 	//メソッドメンバ
